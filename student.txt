@@ -2,3 +2,5 @@ Name: Jazeel muzammil
 Course: BCA
 College: ABC College
 Skill: Git and GitHub
+Git Level: Beginner
+Favorite Command: git status
